@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently focussing on **React!**
 
-- 👨‍💻 All of my projects are available at My Repository
+- 👨‍💻 Some of my projects are available at My Repository
 
 - 💬 Ask me about **My projects.**
 
