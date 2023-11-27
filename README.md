@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rhys Edwards</h1>
 <h3 align="center">I'm an enthusiastic hard-working Front End developer from Stourbridge!</h3>
 
+<p>Skilled in Front-End development and creating full fledged WordPress themes from scratch.</p>
+
 - 🌱 I’m currently focussing on **React!**
 
 - 👨‍💻 All of my projects are available at My Repository
